@@ -1,7 +1,6 @@
 module.exports = {
   entry: {
-    gettingStarted: './gettingStarted.jsx',
-    p2: './p2.jsx',
+    home: './home.jsx',
   },
   module: {
     rules: [
