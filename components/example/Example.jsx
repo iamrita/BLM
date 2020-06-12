@@ -125,7 +125,6 @@ class Example extends React.Component {
         <li> Becoming </li>
         <li> Invisible Man </li>
         <li> Born a Crime </li>
-        <li> Men We Reaped </li>
 
         </ul>
       }
